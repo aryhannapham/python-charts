@@ -45,7 +45,7 @@ jobs:
           channel: "stable"
 
       - name: Build Flet web app
-        run: uv run flet build web --base-url "/industry-python-ch-13-charting-and-testing/"
+        run: uv run flet build web --base-url "/python-charts/"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
