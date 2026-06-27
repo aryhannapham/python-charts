@@ -19,7 +19,7 @@ The dashboard uses a CSV file called student\_budget\_2026.csv with 12 rows (one
 
 ### **Chart 1: Monthly Spending Trend**
 
-\[Insert screenshot here\]
+![Area chart](photos/area_chart.png)
 
 Explanation of Chart: This chart is a stacked area chart showing how spending across eight categories: tuition, rent, food, transport, books and supplies, subscriptions, health and fitness, and entertainment, changed month by month over the year. Each colored layer represents one category, and the total height of the chart at any given month represents total spending for that month. It makes it easy to see that rent and tuition dominate the budget.
 
@@ -27,7 +27,7 @@ Explanation of Chart: This chart is a stacked area chart showing how spending ac
 
 ### **Chart 2: Annual Spending Breakdown**
 
-\[Insert screenshot here\]
+![Donut chart](photos/donut_chart.png)
 
 Explanation of Chart: This chart is a donut chart showing the percentage of total annual spending by category. Instead of showing month-by-month changes, it answers the question of where the money went over the full year. Tuition and rent together make up the majority of the total, while smaller categories like subscriptions and health and fitness are easy to underestimate month to month but still add up significantly over 12 months.
 
@@ -35,7 +35,7 @@ Explanation of Chart: This chart is a donut chart showing the percentage of tota
 
 ### **Chart 3: Income vs. Expenses with Workload**
 
-\[Insert screenshot here\]
+![Bubble chart](photos/bubble_chart.png)
 
 Explanation of Chart: This chart is a bubble scatter chart that combines financial and workload data in one view. Each bubble represents one month. The x-axis shows total income, the y-axis shows total expenses, the size of the bubble represents total work and study hours, and the color represents net cash flow. It shows that expenses consistently outpace income every month, but summer months like July and August have slightly better cash flow and higher workload.
 
