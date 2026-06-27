@@ -148,7 +148,7 @@ def main(page: ft.Page):
     page.scroll = "auto"
 
     # Read data from CSV file
-    data = read_csv("data.csv")
+    data = read_csv("python-charts/data/data.csv")
 
     if not data:
         # Show error message if no data loaded
